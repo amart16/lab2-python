@@ -4,7 +4,6 @@
 # Collaborator:
 # Section: 
 # Breakout: 
-
 def getLetterGrade(grade):
   if grade >= 93.0:
     return "A"
